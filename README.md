@@ -9,7 +9,7 @@ There are 33 million child labourers between the ages of 5-18  years in India as
 The low adoption rate does not apply to children alone - stray dogs are in huge numbers as well - An estimated 35 million stray dogs live in India. And according to the World Health Organization (WHO), India faces about 18,000 to 20,000 cases of rabies every year. According to the WHO report, an estimated 45% of all deaths from the disease occur in South- East Asia, out of which about 36% of the world’s deaths from rabies happen in India itself.
 
 # The solution we propose to address the above problem:
-Addressing the previous problems, we propose to build a platform (Web and Mobile) that will significantly simplify the process of adoption. 
+Addressing the above problems, we propose to build a platform (Web and Mobile) that will significantly simplify the process of adoption. 
 
 First off, we can connect Orphanages across the country via the platform by making use of CARA (Central Adoption Resource Authority) resources. Parents who are looking to adopt children can then make use of the service to apply for the adoption process. 
 
